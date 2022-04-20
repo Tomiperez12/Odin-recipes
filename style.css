@@ -1,0 +1,14 @@
+*{
+    background-color: darksalmon;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 400%;
+}
+
+#lasagna{
+    color: black;
+    font-size: large;
+    border: 5px solid white;
+}
